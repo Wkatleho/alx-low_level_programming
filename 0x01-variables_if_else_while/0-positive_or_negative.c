@@ -1,11 +1,15 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
-/*
- * This program will assign a random number to the variable n each time it's executed
- * return: always 0
- */
+
+/**
+* main - Determines if a number is positive, negative or zero.
+*
+* Return: Always 0 (Success)
+*/
+
 int main(void)
+
 {
 	int n;
 
